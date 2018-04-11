@@ -1,0 +1,10 @@
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\bin\Debug\CircleCylinder.exe.config
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\bin\Debug\CircleCylinder.exe
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\bin\Debug\CircleCylinder.pdb
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.csprojResolveAssemblyReference.cache
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.Form1.resources
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.Properties.Resources.resources
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.csproj.GenerateResource.cache
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.csproj.CoreCompileInputs.cache
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.exe
+C:\Users\Вадим Бидюк\source\repos\CircleCylinder\CircleCylinder\obj\Debug\CircleCylinder.pdb
